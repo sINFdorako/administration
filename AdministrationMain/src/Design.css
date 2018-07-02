@@ -1,0 +1,17 @@
+.root{
+    -fx-background-color: #383838;
+}
+
+.label{
+    -fx-text-fill: black;
+}
+
+.label-enterpriseCustom{
+    -fx-text-fill: aliceblue;
+    -fx-font-weight: bold;
+}
+
+.button{
+    -fx-text-fill: darkslategray;
+    -fx-font-weight: bold;
+}

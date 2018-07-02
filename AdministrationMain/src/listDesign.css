@@ -1,0 +1,16 @@
+.root{
+    -fx-background-color: #383838;
+}
+
+.button{
+    -fx-background-color: darkslategray;
+    -fx-font-weight: bold;
+}
+
+.button-delete{
+    -fx-background-color: darkred;
+}
+
+.button-add{
+    -fx-background-color: darkgreen;
+}
